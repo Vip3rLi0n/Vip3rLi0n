@@ -10,13 +10,17 @@
 
 </div>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
 <p align="center"><img src="[https://i.pinimg.com/236x/98/0e/99/980e99603dc477f0ad105a6c378a5567.jpg](https://github.com/Vip3rLi0n/Vip3rLi0n/assets/21289340/c7285294-6f23-4b3e-8f53-6dc2f317bd89)"/></p>
+
+---
+
+<div align="center">
 
 ### :man_technologist: &nbsp;About Me :
 
 I am a SysAdmin <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Malaysia.
+
+</div>
 
 - 🔭 My line of work are currently as a System Engineer, Security Engineer and contributing to backend related things for maintaining web applications.
 - 🌱 Exploring new programming language and frameworks.
@@ -24,8 +28,11 @@ I am a SysAdmin <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 
 ---
 
+<div align="center">
+
 ### 🛠 &nbsp;Languages and Tools :
 
+</div>
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
