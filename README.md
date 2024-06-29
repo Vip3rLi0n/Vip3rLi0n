@@ -3,7 +3,8 @@
 <p align="center">
 <a href="https://paypal.me/unitysync" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2020/08/PayPal-Logo.jpg" alt="If you want to support~" width="100" height="50"></a>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
+
+[![discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discordapp.com/users/829306782605639700) ![GitHub followers](https://img.shields.io/github/followers/Vip3rLi0n) ![GitHub User's stars](https://img.shields.io/github/stars/Vip3rLi0n)
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
@@ -16,7 +17,7 @@ I am a SysAdmin <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 - 🔭 My line of work are currently as a System Engineer, Security Engineer and contributing to backend related things for maintaining web applications.
 - 🌱 Exploring new programming language and frameworks.
 - ⚡ In my free time I code random Python script, Discord bot and looking into CenSys, SecurityTrails, Shodan and ZoomEye.
-- 📫 How to reach me: [![discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discordapp.com/users/829306782605639700)
+- 📫 How to reach me: 
 
 ---
 
