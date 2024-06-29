@@ -1,7 +1,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
-<a href="https://paypal.me/unitysync" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2020/08/PayPal-Logo.jpg" alt="If you want to support~" width="100" height="150"></a>
+<a href="https://paypal.me/unitysync" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2020/08/PayPal-Logo.jpg" alt="If you want to support~" width="100" height="50"></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
@@ -49,13 +49,17 @@ I am a SysAdmin <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/portainer/portainer-original-wordmark.svg" title="Portainer" alt="Portainer" width="40" height="40"/>&nbsp;
 </p>
-<center>
+
 ---
 
 ### 🔥 &nbsp; My Stats :
+
+<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Vip3rLi0n&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vip3rLi0n&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+
 ---
-</center>
