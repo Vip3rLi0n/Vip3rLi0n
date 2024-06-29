@@ -21,7 +21,6 @@ I am a SysAdmin <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 - 🔭 My line of work are currently as a System Engineer, Security Engineer and contributing to backend related things for maintaining web applications.
 - 🌱 Exploring new programming language and frameworks.
 - ⚡ In my free time I code random Python script, Discord bot and looking into CenSys, SecurityTrails, Shodan and ZoomEye.
-- 📫 How to reach me: 
 
 ---
 
