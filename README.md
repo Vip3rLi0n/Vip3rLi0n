@@ -7,7 +7,7 @@
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<p align="center"><img src="https://i.pinimg.com/236x/98/0e/99/980e99603dc477f0ad105a6c378a5567.jpg"/></p>
+<p align="center"><img src="[https://i.pinimg.com/236x/98/0e/99/980e99603dc477f0ad105a6c378a5567.jpg](https://github.com/Vip3rLi0n/Vip3rLi0n/assets/21289340/c7285294-6f23-4b3e-8f53-6dc2f317bd89)"/></p>
 
 ### :woman_technologist: &nbsp;About Me :
 
