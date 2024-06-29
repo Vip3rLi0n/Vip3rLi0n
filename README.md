@@ -1,7 +1,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
-<a href="https://paypal.me/unitysync" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2020/08/PayPal-Logo.jpg" alt="If you want to support~"></a>
+<a href="https://paypal.me/unitysync" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2020/08/PayPal-Logo.jpg" alt="If you want to support~" width="100" height="150"></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
