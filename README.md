@@ -30,7 +30,7 @@ I am a SysAdmin <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 
 <div align="center">
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp;Languages and Tools
 
 </div>
 <p align="center">
@@ -62,10 +62,9 @@ I am a SysAdmin <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 </p>
 
 ---
-
-### 🔥 &nbsp; My Stats :
-
 <div align="center">
+
+### 🔥 &nbsp; My Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Vip3rLi0n&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
