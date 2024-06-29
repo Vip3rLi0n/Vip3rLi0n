@@ -4,7 +4,11 @@
 <a href="https://paypal.me/unitysync" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2020/08/PayPal-Logo.jpg" alt="If you want to support~" width="100" height="50"></a>
 </p>
 
+<div align="center">
+
 [![discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discordapp.com/users/829306782605639700) ![GitHub followers](https://img.shields.io/github/followers/Vip3rLi0n) ![GitHub User's stars](https://img.shields.io/github/stars/Vip3rLi0n)
+
+</div>
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
