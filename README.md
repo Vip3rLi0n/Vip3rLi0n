@@ -7,7 +7,7 @@
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<p align="center"><img src="https://i.pinimg.com/236x/98/0e/99/980e99603dc477f0ad105a6c378a5567.jpg" width="600" height="300"  /></p>
+<p align="center"><img src="https://i.pinimg.com/236x/98/0e/99/980e99603dc477f0ad105a6c378a5567.jpg"/></p>
 
 ### :woman_technologist: &nbsp;About Me :
 
